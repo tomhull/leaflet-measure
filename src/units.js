@@ -33,6 +33,11 @@ export default {
     display: 'miles',
     decimals: 2
   },
+  nauticalmiles: {
+    factor: 0.0005399568,
+    display: 'nautical miles',
+    decimals: 2
+  },
   sqfeet: {
     factor: 10.7639,
     display: 'sqfeet',
